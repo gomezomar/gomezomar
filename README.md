@@ -1,12 +1,10 @@
 # **¡Hello World!** | Mi nombre es Omar Gomez 💻🚀
-
+---
 ## **Sobre mi:**
 
 **Soy un Desarrollador Full-stack** apasionado por la tecnología, la programación y la electrónica. Considero que cuento con el pensamiento analítico y lógica para abordar problemas complejos a la hora de programar, también cuento con la curiosidad y la capacidad suficiente para mantenerme en constante aprendizaje.
 
 <br />
-
----
 
 ## **Lo que hago:**
 
@@ -14,15 +12,11 @@ Actualmente me dedico a desarrollar proyectos personales que me permitan ganar n
 
 <br />
 
----
-
 ## **Mis objetivos:**
 
 Seguir aprendiendo mediante la práctica. Participar en proyectos que permitan solucionar problemas de la vida en los cuales pueda demostrar y aplicar mis conocimientos y habilidades.  
 
 <br />
-
----
 
 ## 📋 **Tecnologías que uso:**
 
@@ -40,7 +34,6 @@ Seguir aprendiendo mediante la práctica. Participar en proyectos que permitan s
 
 <br />
 
----
 ## Para conectar conmigo:  
 
 <a href="https://www.linkedin.com/in/omar-gomez-4ab990184/" target="_blank">
